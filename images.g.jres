@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAQAQiAgAAAARABCICAFBEBEQkIgAAUERERCICAABQRURERAQAAFBE/zRERAAAVfREREREAABFRERERAIAAFVEREREAgAAUERERCQyAABQRERERDIDAABAREQyIgMAAEBEIzIjAwAAREQjIgMDAABERDMCAAAAAAQAMAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "KING"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAERCICAAAAQEREQgQAAABARCREBAAAAPRPREQAAABV/0RERAAAUEVERERERABVREREQ0REBFBEREREREQEUERERERERAIAREREREQ0AgAARERERCMjAABANEQkIyMAAEQwRCMjIwAABDAiIyMjAAAAMCMyIjIAAAAAAzIwAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogy"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAABABCIiAAAAQEQkIgIAAABERCQiAAAAAERBJEIAAABVREFERAAAAEUUQUREBAAARRREREQEAABVREREREQAUEVERERERABQREREREQ0AFBFRERENDQDUAVEREQ0IgMAADQiIzIiAwAARCMzMiIDAAAAIzIyIwMAAAAjMiIjAw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bogy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
